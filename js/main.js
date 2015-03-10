@@ -87,7 +87,7 @@ $(document).ready(function(){
 // ***********************************								  
 			 
 $("body").backstretch([
-   "images/fire.png"
+   "../images/fire.png"
 ], {duration: 5000, fade: 1000});
 							  
 
