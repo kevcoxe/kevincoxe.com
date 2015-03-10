@@ -1,0 +1,162 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>Bitcamp 2014</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="css/jumbotron-narrow.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <!-- <link href="signin.css" rel="stylesheet"> -->
+
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <style type="text/css">
+      body {
+        padding-top: 40px;
+        padding-bottom: 40px;
+        background-color: #eee;
+      }
+
+      .jumbotron {
+        background-color: #fff;
+      }
+
+      .starter-template {
+        padding: 40px 15px;
+        text-align: center;
+      }
+      
+      .form-signin {
+        max-width: 330px;
+        padding: 15px;
+        margin: 0 auto;
+      }
+      .form-signin .form-signin-heading,
+      .form-signin .checkbox {
+        margin-bottom: 10px;
+      }
+      .form-signin .checkbox {
+        font-weight: normal;
+      }
+      .form-signin .form-control {
+        position: relative;
+        height: auto;
+        -webkit-box-sizing: border-box;
+           -moz-box-sizing: border-box;
+                box-sizing: border-box;
+        padding: 10px;
+        font-size: 16px;
+      }
+      .form-signin .form-control:focus {
+        z-index: 2;
+      }
+      .form-signin input[type="email"] {
+        margin-bottom: -1px;
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+      }
+      .form-signin input[type="password"] {
+        margin-bottom: 10px;
+        border-top-left-radius: 0;
+        border-top-right-radius: 0;
+      }
+
+    </style>
+  </head>
+
+  <body>
+
+    <div class="container">
+
+      <form class="form-signin" role="form" method="post" action="./url-form.php">
+        <h2 class="form-signin-heading">Enter a map url seed!</h2>
+        <input name="url" type="url" class="form-control" placeholder="www.youtube.com" required autofocus>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Start Game</button>
+        <button class="btn btn-lg btn-danger btn-block" type="submit"><a href="initialize.php?url=http://www.youtube.com" style="color:#fff;">Youtube</a></button>
+        <button class="btn btn-lg btn-success btn-block" type="submit"><a href="initialize.php?url=http://www.google.com" style="color:#fff;">Google</a></button>
+        <button class="btn btn-lg btn-info btn-block" type="submit"><a href="initialize.php?url=http://www.twitter.com" style="color:#fff;">Twitter</a></button>
+        <button class="btn btn-lg btn-warning btn-block" type="submit"><a href="initialize.php?url=http://www.umbc.edu" style="color:#fff;">UMBC</a></button>
+        <button class="btn btn-lg btn-default btn-block" type="submit"><a href="initialize.php?url=http://www.kevincoxe.net" style="color:#000;">Kevin Coxe</a></button>
+      </form>
+
+    </div> <!-- /container -->
+
+    <div class="container">
+
+      <div class="starter-template">
+
+        <div class="jumbotron">
+          <h1>How to play</h1>
+          <p class="lead">Combine elements to preform different attacks. Single elements cost 1 coin, while double elemental attacks cost 2. Enemies drop coins. Press 'space' to preform an attack. Explore the different combinations of elements and dont run out of coins!</p>
+          <table class="table table-condensed">
+            <tr>
+              <td>Up arrow</td>
+              <td>Jump</td>
+            </tr>
+            <tr>
+              <td>Left arrow</td>
+              <td>Go left</td>
+            </tr>
+            <tr>
+              <td>Right arrow</td>
+              <td>Go right</td>
+            </tr>
+            <tr>
+              <td>Q</td>
+              <td>Select fire</td>
+            </tr>
+            <tr>
+              <td>W</td>
+              <td>Select water</td>
+            </tr>
+            <tr>
+              <td>E</td>
+              <td>Select earth</td>
+            </tr>
+            <tr>
+              <td>R</td>
+              <td>Select wind</td>
+            </tr>
+            <tr>
+              <td>T</td>
+              <td>Clear element queue</td>
+            </tr>
+            <tr>
+              <td>space</td>
+              <td>Cast spell</td>
+            </tr>
+            <tr>
+              <td>Esc</td>
+              <td>Start over</td>
+            </tr>
+          </table>
+        </div>
+
+      </div>
+
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+  </body>
+</html>

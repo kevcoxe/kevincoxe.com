@@ -1,0 +1,57 @@
+[08-Apr-2014 15:45:38 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[08-Apr-2014 15:45:48 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[08-Apr-2014 17:58:06 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[26-May-2014 21:52:44 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[26-May-2014 21:52:49 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[26-May-2014 22:12:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[26-May-2014 22:12:18 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-May-2014 04:02:24 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[28-May-2014 05:21:05 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[15-Jun-2014 21:51:47 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[02-Jul-2014 14:56:37 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[11-Jul-2014 03:58:10 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[17-Jul-2014 04:25:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[17-Jul-2014 04:25:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[17-Jul-2014 04:25:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[17-Jul-2014 04:25:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[17-Jul-2014 04:25:24 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[19-Jul-2014 06:47:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[20-Jul-2014 17:21:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[21-Jul-2014 17:49:30 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-Jul-2014 08:17:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-Jul-2014 08:17:32 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-Jul-2014 08:18:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-Jul-2014 08:18:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[27-Jul-2014 08:21:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[28-Jul-2014 19:24:02 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[31-Jul-2014 06:55:59 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[01-Aug-2014 13:34:16 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[03-Aug-2014 18:42:24 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[04-Aug-2014 11:09:43 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[05-Aug-2014 20:23:21 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[07-Aug-2014 15:19:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[08-Aug-2014 09:13:54 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[21-Aug-2014 10:50:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[18-Sep-2014 03:14:00 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[18-Sep-2014 06:44:02 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[18-Sep-2014 06:50:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[20-Sep-2014 05:46:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[20-Sep-2014 23:05:59 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[20-Sep-2014 23:06:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[20-Sep-2014 23:06:09 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[20-Sep-2014 23:06:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[25-Sep-2014 16:17:33 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[03-Oct-2014 21:57:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[03-Oct-2014 21:57:07 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[03-Oct-2014 21:57:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[03-Oct-2014 21:57:18 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[05-Oct-2014 09:16:05 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[06-Oct-2014 10:08:55 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[06-Oct-2014 10:09:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[06-Oct-2014 10:09:13 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[06-Oct-2014 10:09:23 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[06-Oct-2014 10:09:33 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[13-Oct-2014 01:34:05 UTC] PHP Fatal error:  Call to a member function find() on a non-object in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 11
+[13-Oct-2014 01:34:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[13-Oct-2014 01:34:36 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
+[13-Oct-2014 01:34:40 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, string given in /home/kevcoxe/public_html/html/Bitd00d/initialize.php on line 186
