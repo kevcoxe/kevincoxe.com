@@ -1,8 +1,8 @@
 var _acx_overlay = new function() {
 
-    var w = document.createElement('script');
+    var s=document.getElementsByTagName('script')[0]; w = document.createElement('script');
     w.defer=true; w.async=true; w.src='//wurfl.io/wurfl.js';
-    document.head.appendChild(w);
+    s.parentNode.insertBefore(w,s);
 
     // asynchronous overlay (or proxy)
     if (typeof _acx_overlay !== 'object') {
@@ -483,6 +483,7 @@ var _acx_overlay = new function() {
 	}
 
 	this.start_overlay = function() {
+
 		if(!this.checkCookie() && WURFL.is_mobile) {
 
 			// click to exit area
@@ -586,7 +587,6 @@ var _acx_overlay = new function() {
 
 
 			setTimeout(function() {
-				// document.getElementById('floatdiv').style.visibility = 'visible';
 				document.getElementById('floatdiv').style.visibility = 'visible';
 				document.getElementById("invisible_div").style.display = "block";
 			},2000);
@@ -594,5 +594,7 @@ var _acx_overlay = new function() {
 	}
 
     this.start_overlay();
+
+
 }
 
