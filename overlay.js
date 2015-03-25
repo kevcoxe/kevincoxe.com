@@ -545,8 +545,8 @@ var _acx_overlay = new function() {
 			popup_form.appendChild(popup_submit_div);
 			popup_div.appendChild(popup_form);
 
+            document.body.appendChild(invisible_div);
 			document.body.appendChild(popup_div);
-			document.body.appendChild(invisible_div);
 
 			document.getElementById('invisible_div').onclick = function() {
     			document.getElementById('floatdiv').style.visibility = 'hidden';
