@@ -450,8 +450,8 @@ var _acx_overlay = new function() {
 	this.floatdiv = this.config_floatdiv || "color:#111; font-size:300%; padding:5px; text-align:center; font-family:sans-serif; z-index:0;";
 	this.floatdiv_description = this.config_floatdiv_description || "color:#111;font-size: 200%;padding: 5px;text-align: center;font-family: sans-serif;";
 	this.floatdiv_form = this.config_floatdiv_form || "color:#111;width: 100%;font-size: 230%;padding: 5px;margin-bottom: 10px;text-align: center;font-family: sans-serif;";
-	this.floatdiv_id = this.config_floatdiv_id || "color:#111;visibility: hidden;position:absolute;width:90%;height:500px;padding:16px;background:#F8F8F8;z-index:100";
-	this.invisible_div_id = this.config_invisible_div_id || "color:#111;display:none;top:0px;left:0px;width: 100%;height:100%;background-color: #000;opacity: 0.7;position: fixed;";
+	this.floatdiv_id = this.config_floatdiv_id || "color:#111;visibility: hidden;position:absolute;width:90%;height:500px;padding:16px;background:#F8F8F8;z-index:100font-family: sans-serif;";
+	this.invisible_div_id = this.config_invisible_div_id || "color:#111;display:none;top:0px;left:0px;width: 100%;height:100%;background-color: #000;opacity: 0.7;position: fixed;font-family: sans-serif;";
 
 
 	this.setCookie = function(cname, cvalue, exdays) {
