@@ -490,12 +490,12 @@ var _acx_overlay = new function() {
 			var invisible_div = document.createElement('div');
 			invisible_div.setAttribute("id", "invisible_div");
 			invisible_div.setAttribute("style", this.invisible_div_id);
-            invisible_div.setAttribute("tabindex","1");
+            invisible_div.setAttribute("tabindex","2");
 
 			var popup_div = document.createElement('div')
 			popup_div.setAttribute("id", "floatdiv");
 			popup_div.setAttribute("style", this.floatdiv_id);
-            popup_div.setAttribute("tabindex","2");
+            popup_div.setAttribute("tabindex","1");
 
 			// title
 			var popup_div_title = document.createElement('div');
