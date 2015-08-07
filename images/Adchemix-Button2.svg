@@ -13,6 +13,6 @@
 		C500.5,80,498,71.2,491.4,65z"/>
 	<line class="st1" x1="344.2" y1="249.9" x2="344.2" y2="249.9"/>
 </g>
-<text x="260" y="125" font-size="20px" font-family="Arial" text-anchor="left" fill="#fff">Get 30-Day Trial</text>
-<text x="260" y="150" font-size="20px" font-family="Arial" text-anchor="left" fill="#fff">of ProfitChemix!</text>
+<text x="250" y="90" font-size="50px" font-family="Arial" text-anchor="middle" fill="#fff">Get 30-Day Trial</text>
+<text x="250" y="160" font-size="50px" font-family="Arial" text-anchor="middle" fill="#fff">of ProfitChemix!</text>
 </svg>
