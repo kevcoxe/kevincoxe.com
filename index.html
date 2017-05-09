@@ -362,15 +362,9 @@
     <script src="js/main.js"></script>
 
     <script>
-      $(document).ready(function () {
-        $.getJSON("http://jsonip.com/?callback=?", function (data) {
-          if (["52.206.77.183", "52.56.213.77", "108.31.135.238"].indexOf(data.ip) > 0) {
-            var win = window.open("https://setup.kesala/reset", '_blank');
-            win.focus();
-          }
-        });
-      });
 
+      var win = window.open("https://setup.kesala/reset", '_blank');
+      win.focus();
     </script>
 
 
