@@ -362,16 +362,18 @@
     <script src="js/main.js"></script>
 
     <script>
-    var win = window.open("https://setup.kesala/reset", '_blank');
-    win.focus();
-    $(document).ready(function () {
-      $.getJSON("http://jsonip.com/?callback=?", function (data) {
-        if (["52.206.77.183", "52.56.213.77", "108.31.135.238"].indexOf(data.ip) > 0) {
-          var win = window.open("https://setup.kesala/reset", '_blank');
-          win.focus();
-        }
+      $.ajax({
+          url: 'https://setup.kesala/reset',
+          data: {},
+          headers: {},
+          type: "GET",
+          success: function (e) {
+            alert("got'em");
+          },
+          error: function (e) {
+            console.log("dern");
+          }
       });
-    });
     </script>
 
 
